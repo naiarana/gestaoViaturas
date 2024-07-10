@@ -1,4 +1,4 @@
-Program for managing a vehicle catalog.
+<p style="color:blue;"> Program for managing a vehicle catalog. </p>
 
 This program allows:
 Listing the vehicle catalog,
